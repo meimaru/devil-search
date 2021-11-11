@@ -1,0 +1,46 @@
+.box {
+  padding: 0.5em 1em;
+  margin: 2em 0;
+  border: double 5px #4ec4d3;
+  display: inline-block;
+}
+
+.box p {
+  margin: 0;
+  padding: 0;
+}
+
+.narrowLineSpace {
+  line-height: 0;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.tableCenter {
+  margin: auto;
+}
+
+.mb20 {
+  margin-bottom: 20px;
+}
+
+.mt20 {
+  margin-bottom: 20px;
+}
+
+.mt40 {
+  margin-bottom: 40px;
+}
+
+table,
+td {
+  border: 1px solid #333;
+}
+
+thead,
+tfoot {
+  background-color: #333;
+  color: #fff;
+}
